@@ -85,19 +85,7 @@ const Questions = [
     },
     {
         question: "It pains me to think<br/>That my happiness turned out to be one of those fingers<br/>That strangled you until you couldn't breathe",
-        answer: "Children of the city",
-        album: "To Kill a Living Book -for Library Of Ruina-",
-        color: "red"
-    },
-    {
-        question: "With tears rolling down our faces<br/>We began to sing<br/>'They can never take anything from our souls'<br/>Louder and louder",
-        answer: "Children of the city",
-        album: "To Kill a Living Book -for Library Of Ruina-",
-        color: "red"
-    },
-    {
-        question: "Cut it off, you've already lost<br/>All that precious bravery is gonna get you hurt<br/>In a world that feeds on the minority",
-        answer: "Children of the city",
+        answer: "Iron Lotus",
         album: "To Kill a Living Book -for Library Of Ruina-",
         color: "red"
     },

@@ -27,7 +27,7 @@ const Card = ({ question , answer , flip , album , color }) => {
           ))}
           <div>
             <h5>Appears in Album:</h5>  
-            <img src={`../src/assets/${album}.jpg`} height="80px" weight="80px"/>
+            <img src={`../src/assets/${album}.jpg`} height="60px" weight="90px"/>
           </div>
         </div>
         <div className="card-back">
